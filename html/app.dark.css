@@ -87,7 +87,6 @@ For a copy, see <https://opensource.org/licenses/MIT>.
 
 .el-button:not(.el-button--text) {
 	background-color: #353535;
-	border-color: #404040;
 }
 
 .el-button:not(.el-button--text):focus, .el-button:not(.el-button--text):hover {
